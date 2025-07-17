@@ -1,0 +1,42 @@
+.dashboardContainer {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 32px;
+  background: #f8fafc;
+  border-radius: 14px;
+  text-align: center;
+}
+
+.dashboardForm {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  margin-bottom: 24px;
+}
+
+.dashboardForm input,
+.dashboardForm textarea {
+  padding: 8px;
+  border-radius: 6px;
+  border: 1px solid #d1d5db;
+  font-size: 1em;
+  width: 100%;
+}
+
+.dashboardButton {
+  background: #1d0777;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  padding: 10px 0;
+  cursor: pointer;
+
+}
+
+
+
+
+
+
+
+
