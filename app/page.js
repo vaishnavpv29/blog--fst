@@ -30,10 +30,10 @@ export default function Home() {
          <a href="/search">Search</a>
           </li>
           <li className={styles.navItem}>
-            <a href="/blog/login/user">user_login</a>
+            <Link href="/blog/login/user">user_login</Link>
           </li>
           <li className={styles.navItem}>
-            <a href="/blog/login/admin">admin_login</a>
+            <Link href="/blog/login/admin">admin_login</Link>
           </li>
         </ul>
       </nav>
